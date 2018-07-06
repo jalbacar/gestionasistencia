@@ -8,7 +8,7 @@ public class GestionTest {
 
     @Before
     public void setUp(){
-        System.out.println("Inicio de Test");
+        System.out.println("Inicio de Testy");
     }
 
     @Test
