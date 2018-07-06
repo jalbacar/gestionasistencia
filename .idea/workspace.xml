@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433cfb34-723f-42e3-8bb8-901ba94512a8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/gestion/GestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gestion/GestionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GestionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GestionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/gestion/GestionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="175">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#154#155#0" expanded="true" />
@@ -40,14 +41,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AsistenciaTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AsistenciaTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,8 +78,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/gestion/GestionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java" />
       </list>
     </option>
   </component>
@@ -236,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1530871241362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creación de la clase de Test relacionada con la asistencia de alumnos">
+      <created>1530875344138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530875344138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creación de la clase de Test relacionada con la asistencia de alumnos">
+      <created>1530875399939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530875399939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creación de la clase de Test relacionada con la asistencia de alumnos">
+      <created>1530875591317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530875591317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -287,7 +309,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creación de la clase de Test relacionada con la asistencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación de la clase de Test relacionada con la asistencia" />
+    <MESSAGE value="Creación de la clase de Test relacionada con la asistencia de alumnos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de la clase de Test relacionada con la asistencia de alumnos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/gestion/Gestion.java">
@@ -304,27 +327,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/gestion/GestionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="175">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#154#155#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/gestion/AsistenciaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,6 +6,6 @@ public class AsistenciaTest {
 
     @Test
     public void verificar_presencia_alumno(){
-        assert true == true;
+        assert true != true;
     }
 }
